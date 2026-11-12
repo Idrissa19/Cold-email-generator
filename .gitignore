@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+api_key.txt
+.idea/
+.ipynb_checkpoints/
+vectorstore/
+app/vectorstore/
